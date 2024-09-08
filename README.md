@@ -15,7 +15,7 @@
 -  9.**Software** = That we can't touch only can see is called software.it is a generic term for the instruction,program, and data tell a computer how to operate and perform specific tasks.
 -  There are four type of software 1.** System software  2. Application Software  3. Programming software  4. Utility software**
 -  10.  **Basic formula** **0,1 = 1 Bit
-      -                   4 Bit = 1 Nibble
+      -                     4 Bit = 1 Nibble
       -                     8 Bit = 1 Byte
        -                    1024 Byte = 1 KB
        -                    1024 KB = 1 MB
