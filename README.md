@@ -21,8 +21,8 @@
        -  1024 KB = 1 MB
         - 1024 MB = 1 GB
         - 1024 GB = 1 TB
-         -1024 TB = 1 PB
-          - 1024 PB = 1 ZB**
+      -    1024 TB = 1 PB
+      -   1024 PB = 1 ZB**
 
 -**OPERATING SYSTEM** = The software that control the basic operation of a computer or computer Network. like Window,Mac OS and Android.
 
