@@ -31,10 +31,10 @@
 - **LAN(local Area Network)** = LAN is normally exclusiveto an organization, such as a school, office.
 - **WAN(Wide Area Network)** = A Wide area nrtwork is the technlogy that connects your office, data centers, cloud application, and cloud storage together.
 - **OSI Model**
-              **L1 = physical**
-              **L2 = Data Link**
-              **L3 = Network**
-              **L4 = Transport**
-              **L5 = Session**
-              **L6 = Presentation**
-              **L7 = Application **
+ -             **L1 = physical**
+-              **L2 = Data Link**
+ -             **L3 = Network**
+ -             **L4 = Transport**
+ -             **L5 = Session**
+ -             **L6 = Presentation**
+ -             **L7 = Application **
