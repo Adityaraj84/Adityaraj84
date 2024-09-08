@@ -9,8 +9,8 @@
                                        **Artificial Intelligence** = In this time we used **AI** .  AI is technology that enable computer and machine to simulate human learning, problem
                                                                       solving, creativity and autonomy.
 - 3.**CPU** =(Centralrocessing Unit) CPU is the brain of Computer.it is very important part of computer
-- 5** Input Device** = like mouse, key board,scanner,joystic etc.
--  6**utput Device** = like speaker,monitor, printer,LCD etc.
+- 5**.Input Device**= like mouse, key board,scanner,joystic etc.
+-  6.**Output Device** = like speaker,monitor, printer,LCD etc.
    
 
 <!---
