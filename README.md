@@ -6,13 +6,12 @@
 - 1.# **COMPUTER** = "Commonly Operator Machine Particuler User Trade Education Research" its a full form COMPUTER. Computer is an Electronic machine it is a device that accept                      information and manipulates it for some result based on a program,software, or sequenceof instructions on how the data is to be processed. 
 -  2. #"**Generation of Computer**" **Vacum Tube**= In first generation of computer we used vacum tube Technology.
                                       **Transister Technology** = In second generation of computer we used transister Technology.
-                                       **Artificial Intelligence** = In this time we used **AI** .  AI is technology that enable computer and machine to simulate human learning, problem
-                                                                      solving, creativity and autonomy.
+                                       **Artificial Intelligence** = In this time we used **AI** .  AI is technology that enable computer and machine to simulate human learning, problem solving, creativity and autonomy.
 - 3.**CPU** =(Centralrocessing Unit) CPU is the brain of Computer.it is very important part of computer
 - 5**.Input Device**= like mouse, key board,scanner,joystic etc.
 -  6.**Output Device** = like speaker,monitor, printer,LCD etc.
--  7. #Memory = mainly divided into two part 1.RAM(Random accesss Memory) 2. ROM(Read Only Memory)
-- 8. # Storage = storage can refer to the act of putting something in a specific place for future use e.g. HDD,SSD
+-  7.** Memory** = mainly divided into two part 1.RAM(Random accesss Memory) 2. ROM(Read Only Memory)
+-   8. **Storage** = storage can refer to the act of putting something in a specific place for future use e.g. HDD,SSD
       
    
 
