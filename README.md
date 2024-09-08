@@ -7,7 +7,7 @@
 -  2. #"**Generation of Computer**" **Vacum Tube**= In first generation of computer we used vacum tube Technology.
                                       **Transister Technology** = In second generation of computer we used transister Technology.
                                        **Artificial Intelligence** = In this time we used **AI** .  AI is technology that enable computer and machine to simulate human learning, problem solving, creativity and autonomy.
-- 3.**CPU** =(Centralrocessing Unit) CPU is the brain of Computer.it is very important part of computer
+- 3.**CPU** =(Central processing Unit) CPU is the brain of Computer.it is very important part of computer
 - 5**.Input Device**= like mouse, key board,scanner,joystic etc.
 -  6.**Output Device** = like speaker,monitor, printer,LCD etc.
 -  7.** Memory** = mainly divided into two part 1.RAM(Random accesss Memory) 2. ROM(Read Only Memory)
@@ -26,4 +26,7 @@
 
 -**OPERATING SYSTEM** = The software that control the basic operation of a computer or computer Network. like Window,Mac OS and Android.
 
---->
+-**Network** = A network is basically a collection of Computers and other devices that are linked together to exchange data. Each device on the network is referred to as a node,
+            and each node has its own address, which is anumerical value.
+- **LAN(local Area Network)** = LAN is normally exclusiveto an organization, such as a school, office.
+- 
