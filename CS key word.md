@@ -38,3 +38,5 @@
  -             **L5 = Session**
  -             **L6 = Presentation**
  -             **L7 = Application **
+## Python 
+Python is a high-level, interpreted programming language known for its readability and simplicity. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python is widely used for web development, data analysis, artificial intelligence, scientific computing, automation, and more, thanks to its extensive libraries and frameworks. Its strong community and versatility make it a popular choice for beginners and experienced developers alike.
