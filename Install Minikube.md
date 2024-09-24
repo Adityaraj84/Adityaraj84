@@ -6,3 +6,4 @@ Kubernetes is an open-source container orchestration platform that automates the
 ![17271819223259017765149752135820](https://github.com/user-attachments/assets/c1ab61d4-6dab-4c15-860a-cdae7da1d058)
 ## Orchestration 
 Orchestration is the automated coordination and management of complex tasks and processes, ensuring that different services and components work together effectively. In IT, it streamlines workflows and manages dependencies, especially in containerized environments.
+## How to install minikube in dextop?
