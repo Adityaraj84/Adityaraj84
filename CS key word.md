@@ -3,7 +3,7 @@
    
    
   
-- # **COMPUTER** = "Commonly Operator Machine Particuler User Trade Education Research" its a full form COMPUTER. Computer is an Electronic machine it is a device that accept information and manipulates it for some result based on a program,software, or sequence of instructions on how the data is to be processed. 
+- ##**COMPUTER** = "Commonly Operator Machine Particuler User Trade Education Research" its a full form COMPUTER. Computer is an Electronic machine it is a device that accept information and manipulates it for some result based on a program,software, or sequence of instructions on how the data is to be processed. 
 -   **Generation of Computer** **Vacum Tube**= In first generation of computer we used vacum tube Technology.
                                       **Transister Technology** = In second generation of computer we used transister Technology.
                                        **Artificial Intelligence** = In this time we used **AI** .  AI is technology that enable computer and machine to simulate human learning, problem solving, creativity and autonomy.
