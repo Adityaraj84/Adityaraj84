@@ -1,2 +1,7 @@
 ## Hello I'm Aditya Raj , In this File we will learn Python 
-#Python = 
+#Python = Python is a high-level, interpreted programming language known for its readability and simplicity. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python is widely used for web development, data analysis, artificial intelligence, scientific computing, automation, and more, thanks to its extensive libraries and frameworks
+## import sys
+import keyword
+import operator
+from datetime import datetime
+import os
