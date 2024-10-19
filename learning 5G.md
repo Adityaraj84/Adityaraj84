@@ -21,7 +21,8 @@ The vision of 5G encompasses several key aspects:
 
 4. **Massive Machine Type Communication (mMTC)**: 5G can connect a large number of devices simultaneously, which is essential for smart homes and industries.
 
-5. **Network Slicing**: This allows operators to create virtual networks tailored to specific use cases, optimizing performance and resource allocation.
+5. # Network Slicing
+   This allows operators to create virtual networks tailored to specific use cases, optimizing performance and resource allocation.
 
 6. **Transformational Applications**: 5G will enable new technologies like augmented reality (AR), virtual reality (VR), and advanced telemedicine, transforming various industries.
 
@@ -82,31 +83,32 @@ To transition from 4G to 5G effectively, several essential resources are needed:
 # Architecture of 5G 
 The architecture of 5G is designed to support high data rates, low latency, and massive connectivity. It can be divided into several key components:
 
-1. **User Equipment (UE)**:
+1. # User Equipment (UE)**:
    - Devices such as smartphones, IoT devices, and other endpoints that connect to the 5G network.
 
-2. **Radio Access Network (RAN)**:
+2. # *Radio Access Network (RAN)**:
    - **gNodeB (gNB)**: The 5G base station that connects UEs to the network. It supports various frequency bands, including sub-6 GHz and mmWave.
-   - **Massive MIMO**: Advanced antenna technology that increases capacity and coverage by using multiple antennas at the gNB.
+   - # **Massive MIMO**:
+   - Advanced antenna technology that increases capacity and coverage by using multiple antennas at the gNB.
 
-3. **Core Network (5GC)**:
+3. # **Core Network (5GC)**:
    - A cloud-native architecture that separates the control and user planes.
    - **Service-Based Architecture (SBA)**: Allows network functions to communicate via standardized APIs, enabling flexibility and scalability.
-   - Key components include:
+   - Key components include
      - **Access and Mobility Management Function (AMF)**: Manages user access and mobility.
      - **User Plane Function (UPF)**: Handles data routing and forwarding.
      - **Network Exposure Function (NEF)**: Facilitates communication between network functions and external applications.
 
-4. **Transport Network**:
+4. # **Transport Network**:
    - Connects the RAN to the core network, typically using high-capacity fiber optics to handle increased data traffic.
 
-5. **Edge Computing**:
+5. # **Edge Computing**:
    - **Multi-Access Edge Computing (MEC)**: Brings computation and storage closer to the user, reducing latency and enabling real-time applications.
 
-6. **Network Slicing**:
+6.#  **Network Slicing**:
    - Allows the creation of virtual networks tailored to specific applications or user needs, optimizing resource usage and performance.
 
-7. **Security Framework**:
+7. # *Security Framework**:
    - Integrated security measures across all layers to protect user data and network integrity.
 
 This architecture enables 5G to deliver enhanced mobile broadband, ultra-reliable low-latency communication, and massive machine-type communications, supporting a wide range of applications and services.
