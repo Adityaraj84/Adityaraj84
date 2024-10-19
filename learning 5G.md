@@ -1,7 +1,7 @@
 # introduction of 5G 
 5G, or fifth-generation wireless technology, represents a significant advancement over its predecessor, 4G. Designed to meet the growing demands for speed, connectivity, and capacity, 5G offers data rates up to 100 times faster than 4G, with significantly lower latency—often as low as 1 millisecond. 
 
-# Key features of 5G include:
+# Key features of 5G 
 
 1. **Enhanced Mobile Broadband (eMBB)**: Provides high-speed internet access for applications like streaming, gaming, and virtual reality.
 
@@ -79,5 +79,35 @@ To transition from 4G to 5G effectively, several essential resources are needed:
 
 8. **User Devices**:
    - Development and distribution of 5G-compatible smartphones and IoT devices.
+# Architecture of 5G 
+The architecture of 5G is designed to support high data rates, low latency, and massive connectivity. It can be divided into several key components:
 
+1. **User Equipment (UE)**:
+   - Devices such as smartphones, IoT devices, and other endpoints that connect to the 5G network.
+
+2. **Radio Access Network (RAN)**:
+   - **gNodeB (gNB)**: The 5G base station that connects UEs to the network. It supports various frequency bands, including sub-6 GHz and mmWave.
+   - **Massive MIMO**: Advanced antenna technology that increases capacity and coverage by using multiple antennas at the gNB.
+
+3. **Core Network (5GC)**:
+   - A cloud-native architecture that separates the control and user planes.
+   - **Service-Based Architecture (SBA)**: Allows network functions to communicate via standardized APIs, enabling flexibility and scalability.
+   - Key components include:
+     - **Access and Mobility Management Function (AMF)**: Manages user access and mobility.
+     - **User Plane Function (UPF)**: Handles data routing and forwarding.
+     - **Network Exposure Function (NEF)**: Facilitates communication between network functions and external applications.
+
+4. **Transport Network**:
+   - Connects the RAN to the core network, typically using high-capacity fiber optics to handle increased data traffic.
+
+5. **Edge Computing**:
+   - **Multi-Access Edge Computing (MEC)**: Brings computation and storage closer to the user, reducing latency and enabling real-time applications.
+
+6. **Network Slicing**:
+   - Allows the creation of virtual networks tailored to specific applications or user needs, optimizing resource usage and performance.
+
+7. **Security Framework**:
+   - Integrated security measures across all layers to protect user data and network integrity.
+
+This architecture enables 5G to deliver enhanced mobile broadband, ultra-reliable low-latency communication, and massive machine-type communications, supporting a wide range of applications and services.
   
