@@ -26,3 +26,18 @@ else:
 
     # Output the results
     print(f"The roots of the quadratic equation are: {root1} and {root2}")
+# write a programm to accept a number 'n'
+# 1. check if 'n' is prime
+def is_prime(n):
+    if n <= 1:
+        return false
+    for i in range(2, int(**0.5) + 1):
+        # check divisors from 2 to sqrt(n)
+        if n % i == 0:    #if n is divisible by any other number than 1 and itself
+            return false
+        return true
+    n = int(input("enter a number: "))
+    if is_prime (n):
+        print (f"(n) is a prime number.")
+    else:
+     print(f"(n) is not prime number.")
