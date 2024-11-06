@@ -41,3 +41,11 @@ def is_prime(n):
         print (f"(n) is a prime number.")
     else:
      print(f"(n) is not prime number.")
+     
+# Write a Programm to create a pyramid of the character'*' and a reverse pyramid
+def create_pyramid(rows):
+    for i in range(1, rows + 1):
+#printing space to center - align the stars
+        print(' ' *(rows - 1) + '*' *(2 * i - 1))
+n = int (input("enter the number of rows for the pyramid: "))
+create_pyramid(n)
