@@ -11,13 +11,13 @@ def find_roots(a, b, c):
 
     return root1, root2
 
-# Input coefficients
+ Input coefficients
 print("Enter the coefficients of the quadratic equation (ax^2 + bx + c = 0):")
 a = float(input("Enter coefficient a: "))
 b = float(input("Enter coefficient b: "))
 c = float(input("Enter coefficient c: "))
 
-# Ensure a is not zero (it must be a quadratic equation)
+Ensure a is not zero (it must be a quadratic equation)
 if a == 0:
     print("The coefficient 'a' cannot be zero. Please enter a valid quadratic equation.")
 else:
