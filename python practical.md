@@ -1,7 +1,7 @@
 import cmath  # For handling complex square roots
 
 # 1.Function to find the roots
-def find_roots(a, b, c):
+<pre> def find_roots(a, b, c):
     # Calculate the discriminant
     discriminant = cmath.sqrt(b**2 - 4*a*c)
 
@@ -26,10 +26,10 @@ else:
 
     # Output the results
     
-    print(f"The roots of the quadratic equation are: {root1} and {root2}")
+    print(f"The roots of the quadratic equation are: {root1} and {root2}")</pre>
 # 2.write a programm to accept a number 'n'
 # 1. check if 'n' is prime
-def is_prime(n):
+<pre> def is_prime(n):
     if n <= 1:
         return false
     for i in range(2, int(**0.5) + 1):
@@ -42,17 +42,18 @@ def is_prime(n):
         print (f"(n) is a prime number.")
     else:
      print(f"(n) is not prime number.")
+    </pre>
      
 # 3.Write a Programm to create a pyramid of the character'*' and a reverse pyramid
-def create_pyramid(rows):
+<pre> def create_pyramid(rows):
     for i in range(1, rows + 1):
 #printing space to center - align the stars
         print(' ' *(rows - 1) + '*' *(2 * i - 1))
 n = int (input("enter the number of rows for the pyramid: "))
-create_pyramid(n)
+create_pyramid(n) </pre>
 
 # 4. # Function to check the character type
-def check_char_type(char):
+<pre> def check_char_type(char):
     if char.isalpha():
         return "Letter"
     elif char.isdigit():
@@ -74,3 +75,4 @@ Enter a character: 7
 Numeric digit
 Enter a character: @
 Special character
+</pre>
