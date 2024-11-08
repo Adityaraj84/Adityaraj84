@@ -76,3 +76,22 @@ Numeric digit
 Enter a character: @
 Special character
 </pre>
+# 5.# Function to check letter case
+<pre> def check_letter_case(char):
+    if char.isalpha():
+        if char.isupper():
+            return "Uppercase letter"
+        elif char.islower():
+            return "Lowercase letter"
+    else:
+        return "Not a letter"
+
+#Input from the user
+char = input("Enter a character: ")
+
+#Ensure the user inputs only one character
+if len(char) == 1:
+    print(check_letter_case(char))
+else:
+    print("Please enter only a single character.")
+</pre>
